@@ -23,7 +23,6 @@ Ce projet est une application de classification d’images basée sur le dataset
 ```
  python -m venv .venv
 .\.venv\Scripts\activate 
-
 ```
 
 2. Installer les dépendances :
